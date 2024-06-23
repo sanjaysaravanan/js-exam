@@ -1,0 +1,45 @@
+monitorEvents
+  1. param 1 - object for which the event has to be monitored
+  2. param 2 - single category of events or an array of specific events
+
+Node JS:
+  events package
+  path package
+  https package
+  dependency version specs - **
+  URL Constructor
+  node --help, inspect and other flags used commonly
+  inbuilt debugger
+  
+ revise more about package.json & package.lock.json
+
+Debugging in Browsers:
+  type of breakpoints
+    XHR/Fetch
+    DOM
+    EL Breakpoints
+    CSP Violation breakpoints
+  debugger and tabs in the devtools
+
+  console methods
+
+    info, log, warn, error, time, timeEnd, timeLog, group, table
+  
+Browser & Events:
+  history methods
+  node specific methods like table.createTBody, tBody.insertRow()
+  browser frames using iframes as the innerChilds
+  navigator object
+  URL API/Object
+  basic canvas methods
+
+Classes & Objects:
+  decorators
+
+  export {} from can also be used
+
+Testing:
+  Dates and related methods
+  testing type in javascript and TDD
+
+
